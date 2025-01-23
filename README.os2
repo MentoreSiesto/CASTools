@@ -1,0 +1,18 @@
+This is the OS/2 - ArcaOS port of CAS Tools 1.3, a set of programs
+to handle sampled MSX tapes.
+I ported this on OS/2 while I was searching for some MSX emulator
+to be ported, so I thought this could be a good starting point.
+
+As usual, the original source code is included in its .tar.gz 
+compressed form - you can check out the source tree at
+
+https://github.com/joyrex2001/castools
+
+In this directory, a makefile suitable for compiling under OS/2
+version of GCC is present - I wrote it to overcome the differences
+between the original makefile and what I needed.
+
+GCC 9.2.0 was used to port this software.
+Hope this will be useful to someone :)
+
+Mentore
