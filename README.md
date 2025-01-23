@@ -1,13 +1,15 @@
 # CAS Tools 1.3
 
 ## Copyright 2001-2007 Vincent van Dam
-### (vincentd@erg.verweg.com)
+### vincentd@erg.verweg.com
 
 
 This is an OS/2 fork of cas_tools, a set of utilities for MSX emulators.
 I ported this on OS/2 as part of my personal project to have as many retro
 computer and game consoles emulator as possible available on this old but
 still good platform.
+
+The original GitHub repository is [here](https://github.com/joyrex2001/castools).
 
 I just modified the original makefile in order to compile it, since I was 
 dealing with command line programs and these are fairly easy to compile.
